@@ -1,3 +1,3 @@
 <?php
 
-phpinfo();
+echo "Cao Khanh Nhat";
