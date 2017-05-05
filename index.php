@@ -1,3 +1,2 @@
 <?php
-
-echo "Cao Khanh Nhat";
+echo "Xin chao the gioi";
